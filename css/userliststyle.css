@@ -1,0 +1,59 @@
+
+.container-1{
+    margin-left: 0px;
+    /*margin-right: 3px;*/
+    
+}
+
+h1{
+    font-size:30px;
+    font-style: normal;
+}
+.head-style{
+    text-align: justify;
+
+}
+/*.table-b{
+    border: 2px;
+    border-radius: 5px;
+    border-color: #333;
+}*/
+/*Table Style One*/
+.table .table-header{
+    background:#5ab0de;
+    color:#333;
+}
+.table .table-header .cell{
+    padding:10px;
+}
+
+@media screen and (max-width: 640px){
+    table {
+        overflow-x: auto;
+        display: block;
+    }
+    .table .table-header .cell{
+        padding:20px 5px;
+    }
+}
+
+header[role="banner"] {
+      margin: 20px auto;
+    
+  }
+  
+  #navbar-primary.navbar-default {
+    background: transparent;
+    border: none;}
+    .navbar-nav { 
+      width: 100%;
+      text-align: center;
+      } li {
+        display: inline-block;
+        float: none;
+      }a {
+          padding-left: 30px;
+          padding-right: 30px;
+          }
+      
+  
