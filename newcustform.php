@@ -6,7 +6,7 @@
         <link rel="stylesheet" type="text/css" href="css/adduserstyle.css">
     </head>
     <body>
-        <header><h1 class="text-bg-dark text-center">Mtnl User</h1></header>
+        <header><h1 class="text-bg-dark text-center">MTNL Add User</h1></header>
         <form action="newcustform.php" method="POST" id="form-1">
             <div class="container">
                 <div class="row">
